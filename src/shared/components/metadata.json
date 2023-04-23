@@ -1,0 +1,56 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "requires": [
+    "w320dp"
+  ],
+  "experiences": [
+    {
+      "vumark": "",
+      "experienceType": "vumark",
+      "id": 1,
+      "index-keys": [],
+      "title": {
+        "en": "3D-Guided Service Instructions 200"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "Home",
+      "url-template": "index.html?expId=1",
+      "entryPoint": "index.html?expId=1",
+      "thumbnail": ""
+    }
+  ],
+  "widgetsUsage": [
+    {
+      "timestamp": "2023-03-31T17:17:43.877Z",
+      "action": "LATEST_SAVE",
+      "usage": {
+        "twx-view": 1,
+        "twx-dt-view": 1,
+        "twx-dt-model": 1,
+        "twx-dt-label": 1,
+        "twx-tml-text": 1,
+        "twx-overlay": 1,
+        "twx-overlay-container": 3,
+        "twx-overlay-body": 1,
+        "twx-gridlayout": 4,
+        "twx-row": 7,
+        "twx-col": 16,
+        "twx-label": 7,
+        "twx-repeater": 1,
+        "twx-button": 4,
+        "twx-text-input": 1
+      }
+    }
+  ],
+  "accessType": "private",
+  "designedfor": []
+}

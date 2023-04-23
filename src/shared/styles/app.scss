@@ -1,0 +1,73 @@
+/*
+   Add additional application styles or override styles provided by the selected theme or widgets.
+   You can include SASS syntax, as this file is built to a css file using a SASS processor.
+
+   Available Variables:
+
+   Variable Name      Description
+   ----------------------------------------------------
+   $resources         References the directory where resources reside (images, etc.), this directory may be different
+                      between the design time and the runtime directory structure.
+
+                      Example: background-image: url(#{$resources}/Uploaded/image.png)
+
+   $font-path        References the relative directory where fonts are stored.
+*/
+.btnadd {
+  background: #236192;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+.btncontinue {
+  background: #c8c9c7;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+.btndisassemble {
+  background: #3d4647;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+}
+
+.btnfind {
+  background: #3d4647;
+  color: #ffffff;
+}
+
+.btnreset {
+  background: #c8c9c7;
+  color: #ffffff;
+}
+
+.cart {
+ background: #236192;
+ color: #ffffff;
+}
+
+.cartlabels {
+  background: #00acc8;
+  color: #ffffff;
+}
+
+.btnclear {
+  background: #3d4647;
+  color: #ffffff;
+  border-radius: 0px;
+}
+
+.btnorder {
+  background: #f38800;
+  color: #ffffff;
+  border-radius: 0px;
+}
+
+.repeater {
+  background: #c8c9c7;
+  color: #236192;
+}
+

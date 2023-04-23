@@ -1,0 +1,69 @@
+[2023-01-26T21:14:47.177Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Begin upgrade of project
+[2023-01-26T21:14:47.178Z] info: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Upgrading project
+[2023-01-26T21:14:47.179Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Make sure there are not any stale files lying around
+[2023-01-26T21:14:47.179Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Create .gitignore for project dir
+[2023-01-26T21:14:47.181Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Copying /src/**/* to project, overwrite=false
+[2023-01-26T21:14:47.182Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2023-01-26T21:14:47.227Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Copy of project files complete
+[2023-01-26T21:14:47.227Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Updating version to 
+[2023-01-26T21:14:47.227Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] onupgrade sucessful, now build the project
+[2023-01-26T21:14:47.227Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] BEGIN buildApp
+[2023-01-26T21:14:47.227Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] write settings
+[2023-01-26T21:14:47.228Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] copy runtime extensions
+[2023-01-26T21:14:47.337Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] packageThemeSet
+[2023-01-26T21:14:47.718Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] onBuild
+[2023-01-26T21:14:47.718Z] info: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Building ves-ar-extension app:
+[2023-01-26T21:14:47.721Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] pathDir
+[2023-01-26T21:14:47.721Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] scaffoldDir
+[2023-01-26T21:14:47.721Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] copySrc
+[2023-01-26T21:14:47.812Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] buildApp
+[2023-01-26T21:14:47.873Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] END buildApp
+[2023-01-26T21:14:47.873Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Build succeeded.
+[2023-02-02T21:46:17.410Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Begin upgrade of project
+[2023-02-02T21:46:17.410Z] info: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Upgrading project
+[2023-02-02T21:46:17.427Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Make sure there are not any stale files lying around
+[2023-02-02T21:46:17.427Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Removing 
+[2023-02-02T21:46:17.431Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Removing 
+[2023-02-02T21:46:17.477Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Removing 
+[2023-02-02T21:46:17.491Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Removing 
+[2023-02-02T21:46:17.499Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Removing 
+[2023-02-02T21:46:17.502Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Copying /src/**/* to project, overwrite=false
+[2023-02-02T21:46:17.507Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2023-02-02T21:46:17.558Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Copy of project files complete
+[2023-02-02T21:46:17.558Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Updating version to 
+[2023-02-02T21:46:17.558Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] onupgrade sucessful, now build the project
+[2023-02-02T21:46:17.558Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] BEGIN buildApp
+[2023-02-02T21:46:17.558Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] write settings
+[2023-02-02T21:46:17.559Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] copy runtime extensions
+[2023-02-02T21:46:19.012Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] packageThemeSet
+[2023-02-02T21:46:19.403Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] onBuild
+[2023-02-02T21:46:19.403Z] info: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Building ves-ar-extension app:
+[2023-02-02T21:46:19.456Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] pathDir
+[2023-02-02T21:46:19.456Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] scaffoldDir
+[2023-02-02T21:46:19.456Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] copySrc
+[2023-02-02T21:46:19.559Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] buildApp
+[2023-02-02T21:46:19.685Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] END buildApp
+[2023-02-02T21:46:19.685Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_200] Build succeeded.
+
+2023-02-07T22:04:44.156Z: Project "3D-Guided_Service_Instructions_200" saved as new project "3D-Guided_Service_Instructions_300"[2023-02-07T22:04:46.646Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Begin upgrade of project
+[2023-02-07T22:04:46.648Z] info: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Upgrading project
+[2023-02-07T22:04:46.650Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Make sure there are not any stale files lying around
+[2023-02-07T22:04:46.651Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Removing 
+[2023-02-07T22:04:46.659Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Create .gitignore for project dir
+[2023-02-07T22:04:46.661Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Copying /src/**/* to project, overwrite=false
+[2023-02-07T22:04:46.662Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2023-02-07T22:04:46.708Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Copy of project files complete
+[2023-02-07T22:04:46.709Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Updating version to 
+[2023-02-07T22:04:46.709Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] onupgrade sucessful, now build the project
+[2023-02-07T22:04:46.709Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] BEGIN buildApp
+[2023-02-07T22:04:46.709Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] write settings
+[2023-02-07T22:04:46.709Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] copy runtime extensions
+[2023-02-07T22:04:48.849Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] packageThemeSet
+[2023-02-07T22:04:49.218Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] onBuild
+[2023-02-07T22:04:49.218Z] info: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Building ves-ar-extension app:
+[2023-02-07T22:04:49.219Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] pathDir
+[2023-02-07T22:04:49.219Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] scaffoldDir
+[2023-02-07T22:04:49.219Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] copySrc
+[2023-02-07T22:04:49.316Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] buildApp
+[2023-02-07T22:04:49.426Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] END buildApp
+[2023-02-07T22:04:49.426Z] debug: [twx-studio:upgrade:3D-Guided_Service_Instructions_300] Build succeeded.
